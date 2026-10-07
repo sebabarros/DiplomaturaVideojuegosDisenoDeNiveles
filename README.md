@@ -23,7 +23,7 @@ Las notas docentes se ocultan durante la presentación, pero forman parte del HT
 
 ## Videos de YouTube
 
-La portada y el caso de análisis incluyen una selección inicial de gameplay de Portal.
+La clase 1 incluye gameplay de Portal; la clase 2 incluye Left 4 Dead, Celeste y Half-Life 2.
 
 1. Ir a la diapositiva elegida.
 2. Pulsar **Agregar video** o **Cambiar video**.
@@ -38,7 +38,7 @@ Los videos requieren internet y que el autor permita su inserción. Abrir el HTM
 
 ## GitHub Pages
 
-1. Subir `index.html`, `clase-1.html` y `README.md` a la raíz del nuevo repositorio.
+1. Subir `index.html`, `clase-1.html`, `clase-2.html` y `README.md` a la raíz del nuevo repositorio.
 2. Abrir **Settings → Pages**.
 3. Elegir **Deploy from a branch**.
 4. Seleccionar **main** y **/(root)**.
@@ -49,4 +49,10 @@ GitHub mostrará la URL pública cuando termine la publicación.
 
 El bloque `<script id="slideData" type="application/json">` de `clase-1.html` contiene las diapositivas. Cada una tiene sección, título, contenido HTML, duración, notas y video opcional. Las duraciones suman 120 minutos.
 
-La clase 2 todavía no está incluida. Podrá incorporarse como `clase-2.html` cuando se defina su contenido.
+## Clase 2 — primera versión
+
+**Del mapa a la experiencia: ritmo, dificultad y revisión.** 21 diapositivas, 120 minutos: 15 de prototipado, 20 de ritmo, 20 de dificultad, 15 de pausa, 20 de diagnóstico, un único ejercicio individual de 20 y 10 de cierre.
+
+Casos: Left 4 Dead (No Mercy), Celeste (Forsaken City) y Half-Life 2 (Ravenholm). Incluye tres videos de gameplay reemplazables, notas docentes y fuentes primarias. Los diagnósticos sobre Ravenholm se presentan como hipótesis didácticas, no como cambios históricos documentados.
+
+La portada permite elegir la clase. La clase 2 descarga sus cambios como `clase-2.html`. Revisar los fragmentos de gameplay antes de dictar y ajustar el inicio desde el editor. La inserción y disponibilidad de los videos dependen de YouTube; cada uno tiene enlace alternativo.
